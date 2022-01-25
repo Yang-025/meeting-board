@@ -1,0 +1,26 @@
+.normal {
+  border: 10px solid goldenrod;
+  /* 測試 prefix */
+  display: flex;
+  background: linear-gradient(red, green);
+}
+
+.hovered {
+  border: 10px solid forestgreen;
+  /* 測試 prefix */
+  display: flex;
+  background: linear-gradient(red, green);
+}
+
+// :global可以做全局改變
+:global .normal-css {
+  border: 10px solid teal;
+  /* 測試 prefix */
+  display: flex;
+  background: linear-gradient(red, green);
+
+  &:hover {
+    border: 10px solid peru;
+  }
+  
+}

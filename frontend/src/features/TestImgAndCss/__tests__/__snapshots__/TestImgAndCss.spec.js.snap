@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TestImgAndCss> 的截圖/ 大圖hover時，class有改變 1`] = `
+<div>
+  <button
+    onClick={[MockFunction]}
+  >
+    Click Me
+  </button>
+  <span>
+    Tiffany Wu
+     
+    Nice post!
+  </span>
+  <button
+    onClick={undefined}
+  >
+    Rx-Observable Test
+  </button>
+  <span>
+    false
+  </span>
+  <img
+    alt="big"
+    className="normal sc-bdVaJa JbXtA"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="test-file-stub"
+  />
+  <img
+    alt="small"
+    className="normal-css"
+    src="test-file-stub"
+  />
+</div>
+`;
+
+exports[`<TestImgAndCss> 的截圖/ 大圖hover時，class有改變 2`] = `
+<div>
+  <button
+    onClick={[MockFunction]}
+  >
+    Click Me
+  </button>
+  <span>
+    Tiffany Wu
+     
+    Nice post!
+  </span>
+  <button
+    onClick={undefined}
+  >
+    Rx-Observable Test
+  </button>
+  <span>
+    false
+  </span>
+  <img
+    alt="big"
+    className="hovered sc-bdVaJa biSeJy"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="test-file-stub"
+  />
+  <img
+    alt="small"
+    className="normal-css"
+    src="test-file-stub"
+  />
+</div>
+`;
+
+exports[`<TestImgAndCss> 的截圖/ 大圖hover時，class有改變 3`] = `
+<div>
+  <button
+    onClick={[MockFunction]}
+  >
+    Click Me
+  </button>
+  <span>
+    Tiffany Wu
+     
+    Nice post!
+  </span>
+  <button
+    onClick={undefined}
+  >
+    Rx-Observable Test
+  </button>
+  <span>
+    false
+  </span>
+  <img
+    alt="big"
+    className="normal sc-bdVaJa JbXtA"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="test-file-stub"
+  />
+  <img
+    alt="small"
+    className="normal-css"
+    src="test-file-stub"
+  />
+</div>
+`;
